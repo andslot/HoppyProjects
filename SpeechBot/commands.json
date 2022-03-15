@@ -1,0 +1,8 @@
+{
+    "PREFIX": "+",
+    "PLAY": "play",
+    "LEAVE": "leave",
+    "JOIN": "join",
+    "DEAF": "deaf",
+    "JGL": "jgl"
+}
